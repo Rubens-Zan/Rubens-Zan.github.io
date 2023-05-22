@@ -19,8 +19,12 @@ $(function () {
 	function createSlide() {
 		for (let i = 0; i < projects.length; i++) {
 			const curProject = projects[i];
-			const imgLink = "../../public/images/" + curProject.img;
-
+			let imgLink = "";
+			if (curProject.staticPath){
+				imgLink += "../../public/images/" + curProject.img;
+			}else {
+				imgLink += curProject.img;
+			}
 			$('.slide').append(
 				`
 				<div class="sobre-projeto">
