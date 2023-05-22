@@ -14,18 +14,18 @@ export default [
         "languages": "HTML,CSS,JAVASCRIPT."
     },
     {
-        "title": "Blog How I Met Your Mother",
-        "description": "How I Met Your Mother é uma sitcom que relata como o protagonista conheceu a mãe de seus filhos. Para tal, relata a vivência com seus melhores amigos. ",
-        "img": "blog-himym.png",
-        "link": "https://github.com/Rubens-Zan/blog-himym",
-        "languages": "HTML,CSS,JAVASCRIPT."
+        "title": "Controlador de Transações",
+        "description": "Desenvolvimento de um controlador de concorrência em transações, utilizando os métodos de Equivalência por visão e seriação de conflito",
+        "img": "",
+        "link": "https://github.com/Rubens-Zan/Transaction-escalation",
+        "languages": "C"
     },
     {
-        "title": "Softy Pinko",
-        "description": "Softy Pinko é uma template gratuita disponível na internet, resolvi realizar esse projeto para aprimorar minhas técnicas em Bootstrap.",
-        "img": "template-softy-pinko.jpg",
-        "link": "https://github.com/Rubens-Zan/Softy-pinko",
-        "languages": "HTML,CSS,BOOTSTRAP,JAVASCRIPT"
+        "title": "Mensageiro Local",
+        "description": "Implementação de sistema para o envio de mensagens (textuais e arquivos de qualquer formato de mídia) utilizando o protocolo TCP/IP, utilizando computadores distintos ligados por um cabo ethernet.",
+        "img": "",
+        "link": "https://github.com/Rubens-Zan/Mensageiro-Local",
+        "languages": "C"
     },
     // {
     // 	"title": "",
