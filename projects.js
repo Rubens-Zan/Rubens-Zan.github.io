@@ -16,14 +16,14 @@ export default [
     {
         "title": "Controlador de Transações",
         "description": "Desenvolvimento de um controlador de concorrência em transações, utilizando os métodos de Equivalência por visão e seriação de conflito",
-        "img": "",
+        "img": "https://user-images.githubusercontent.com/80857600/239979442-6f355d27-afb7-47bd-8a87-9469bab39897.png",
         "link": "https://github.com/Rubens-Zan/Transaction-escalation",
         "languages": "C"
     },
     {
         "title": "Mensageiro Local",
         "description": "Implementação de sistema para o envio de mensagens (textuais e arquivos de qualquer formato de mídia) utilizando o protocolo TCP/IP, utilizando computadores distintos ligados por um cabo ethernet.",
-        "img": "",
+        "img": "https://user-images.githubusercontent.com/80857600/239978169-378749c4-3fba-4ab2-a14b-73c82e28f1e4.png",
         "link": "https://github.com/Rubens-Zan/Mensageiro-Local",
         "languages": "C"
     },
