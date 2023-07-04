@@ -160,7 +160,7 @@ section.educacao {
     margin: 20px auto;
     width: 80%;
     border-radius: 10px;
-    height: 150px;
+    /* height: 150px; */
     background-color: var(--sidebar-color);
 }
 
